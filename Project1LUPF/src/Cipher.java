@@ -5,7 +5,6 @@ public class Cipher {
 
 	public static void main(String[] args) {
 		/*-----------------------------------------------------------------------------------------------------------
-		/
 		/ Brent Harshbarger
 		/ Programming Fundamentals
 		/ Summer 2020
